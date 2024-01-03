@@ -19,7 +19,7 @@
                                                          +%%.                                         
                                                            :-
     
-                                              PHISHHUNT BY DEADKENNEDYX
+                                              FISHHUNT BY DEADKENNEDYX
 ```
 
 
