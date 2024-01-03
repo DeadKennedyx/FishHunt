@@ -23,7 +23,7 @@
 ```
 
 
-As of right now PhishHunt is a GMAIL phishing detection system, uses a machine learning model trained on 5000 phishing emails and 5000 non-phsishing emails. 
+As of right now FishHunt is a GMAIL phishing detection system, uses a machine learning model trained on 5000 phishing emails and 5000 non-phsishing emails. 
 
 It also uses [MalTrail](https://github.com/stamparm/maltrail?tab=readme-ov-file#blacklist) list of malicious domains that is updated every day and checks the urls in the emails for any of those malicious urls.
 
