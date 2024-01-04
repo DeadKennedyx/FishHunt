@@ -38,7 +38,7 @@ If you are cloning dont forget to give me a little star!
 
 2- Go to `/FishNet` and run `python3 email_training.py`, this will start the model training with the legal and phishing emails `.mbox`.
 
-3- We will have now 2 file outputs after running the email_training `phishing_model.pkl` and `vectorizer.pkl`.
+3- We will have now 2 file outputs after running the email_training `phishing_model.pkl` and `vectorizer.pkl`, move this files to the root folder.
 
 4- Now go to root folder and run `python3 main.py`, if you have not been logged in before then it will open a browser tab with the gmail auth page
 
