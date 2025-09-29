@@ -27,9 +27,6 @@ As of right now FishHunt is a GMAIL phishing detection system, uses a machine le
 
 It also uses [MalTrail](https://github.com/stamparm/maltrail?tab=readme-ov-file#blacklist) list of malicious domains that is updated every day and checks the urls in the emails for any of those malicious urls.
 
-### Appreciation
-If you are cloning dont forget to give me a little star!
-
 ### USAGE:
 
 1- `pip3 install -r requirements.txt`.
